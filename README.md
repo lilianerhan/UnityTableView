@@ -8,6 +8,7 @@ TableView is a plugin for Unity 5.6 that implements a Table with an API inspired
 
 ### Features ###
 
+* Reusable cells
 * Vertical / Horizontal
 * No external dependencies
 * Can handle tables with large amounts of rows
